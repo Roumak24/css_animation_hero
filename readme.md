@@ -1,0 +1,1 @@
+This is task 10 by tutedude of MERN stack on animation to hero image
